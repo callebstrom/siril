@@ -62,6 +62,13 @@ const char *filter_pattern[] = {
 	"GGBGGR"
 	"GGRGGB",
 
+	"GGBGGR" // ----> XTRANS_3
+	"GGRGGB"
+	"RBGBRG"
+	"GGRGGB"
+	"GGBGGR"
+	"BRGRBG",
+
 	"GRGGBG"
 	"BGBRGR"
 	"GRGGBG"
